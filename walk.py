@@ -5,4 +5,4 @@ def walk_directory(d, indent):
     # Implement recursive directory walk here
 
 # '.' means current directory
-walk_directory('.', ' ')
+walk_directory('Desktop', ' ')

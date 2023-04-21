@@ -27,11 +27,9 @@ Here are some tips to help you implement this function:
 
 ## Testing
 
-There is a sample call to `walk_directory()` at the bottom of `walk.py`. This sample call asks to walk the current directory from which the program is being run (`'.'`), starting with an initial indentation of one space (`' '`).
+There is a sample call to `walk_directory()` at the bottom of `walk.py`. This sample call asks to walk the given `Desktop` directory with an initial indentation of one space (`' '`).
 
-## Sample Output
-
-Since the output should have indentation to denote the appropriate level of directory, a sample output might look like this:
+The output should look like the following:
 
 ```
  Documents
